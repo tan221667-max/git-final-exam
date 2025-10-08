@@ -1,0 +1,7 @@
+Tính năng mới: Hệ thống nhắc nhở học tập tự động.
+
+- Gửi thông báo hàng ngày vào buổi sáng.
+- Cho phép người dùng thiết lập thời gian nhắc nhở.
+- Hỗ trợ tùy chỉnh nội dung thông báo.
+- Giao diện đơn giản, dễ sử dụng.
+- Giúp người dùng duy trì thói quen học tập hiệu quả.
