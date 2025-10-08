@@ -1,0 +1,16 @@
+Giới thiệu
+- Mình là Dương Minh Tân, sinh viên CNTT.
+- Quan tâm web/app và học Git để làm việc nhóm hiệu quả.
+- Mục tiêu: trở thành frontend developer.
+- Tính cách: chủ động, thích khám phá công nghệ.
+- Hiện tham gia dự án nhóm tại trường.
+
+Sở thích
+- Đọc sách kỹ năng và công nghệ.
+- Chạy bộ & chơi thể thao.
+- Làm các mini project.
+
+Kỹ năng
+- Git/GitHub cơ bản.
+- HTML/CSS/JS.
+- Làm việc nhóm & giao tiếp.
